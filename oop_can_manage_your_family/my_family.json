@@ -1,0 +1,106 @@
+[
+  {
+    "date_of_birth": [
+      29, 
+      7, 
+      1996
+    ], 
+    "first_name": "Chandler", 
+    "last_name": "Mayo", 
+    "is_married_to": 2, 
+    "eyes_color": "Blue", 
+    "genre": "Male", 
+    "id": 1, 
+    "kind": "Adult", 
+    "children": [
+      3, 
+      5, 
+      3, 
+      5, 
+      3, 
+      5
+    ]
+  }, 
+  {
+    "date_of_birth": [
+      29, 
+      7, 
+      1990
+    ], 
+    "first_name": "F-Chandler", 
+    "last_name": "Mayo", 
+    "is_married_to": 1, 
+    "eyes_color": "Green", 
+    "genre": "Female", 
+    "id": 2, 
+    "kind": "Adult", 
+    "children": [
+      3, 
+      5, 
+      3, 
+      5, 
+      3, 
+      5
+    ]
+  }, 
+  {
+    "date_of_birth": [
+      30, 
+      5, 
+      2001
+    ], 
+    "first_name": "little", 
+    "last_name": "mayo", 
+    "is_married_to": 0, 
+    "eyes_color": "Blue", 
+    "genre": "Male", 
+    "id": 3, 
+    "kind": "Baby", 
+    "children": []
+  }, 
+  {
+    "date_of_birth": [
+      7, 
+      4, 
+      2015
+    ], 
+    "first_name": "Tony", 
+    "last_name": "Foto", 
+    "is_married_to": 0, 
+    "eyes_color": "Green", 
+    "genre": "Male", 
+    "id": 4, 
+    "kind": "Baby", 
+    "children": []
+  }, 
+  {
+    "date_of_birth": [
+      7, 
+      4, 
+      2015
+    ], 
+    "first_name": "Tony", 
+    "last_name": "Foto", 
+    "is_married_to": 0, 
+    "eyes_color": "Green", 
+    "genre": "Male", 
+    "id": 3, 
+    "kind": "Baby", 
+    "children": []
+  }, 
+  {
+    "date_of_birth": [
+      7, 
+      4, 
+      2015
+    ], 
+    "first_name": "Tony", 
+    "last_name": "Foto", 
+    "is_married_to": 0, 
+    "eyes_color": "Green", 
+    "genre": "Male", 
+    "id": 3, 
+    "kind": "Baby", 
+    "children": []
+  }
+]
